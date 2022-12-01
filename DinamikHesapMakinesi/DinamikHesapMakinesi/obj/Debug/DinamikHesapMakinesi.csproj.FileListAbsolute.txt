@@ -1,0 +1,10 @@
+C:\Users\raw_3\source\repos\DinamikHesapMakinesi\DinamikHesapMakinesi\bin\Debug\DinamikHesapMakinesi.exe.config
+C:\Users\raw_3\source\repos\DinamikHesapMakinesi\DinamikHesapMakinesi\bin\Debug\DinamikHesapMakinesi.exe
+C:\Users\raw_3\source\repos\DinamikHesapMakinesi\DinamikHesapMakinesi\bin\Debug\DinamikHesapMakinesi.pdb
+C:\Users\raw_3\source\repos\DinamikHesapMakinesi\DinamikHesapMakinesi\obj\Debug\DinamikHesapMakinesi.csprojAssemblyReference.cache
+C:\Users\raw_3\source\repos\DinamikHesapMakinesi\DinamikHesapMakinesi\obj\Debug\DinamikHesapMakinesi.Properties.Resources.resources
+C:\Users\raw_3\source\repos\DinamikHesapMakinesi\DinamikHesapMakinesi\obj\Debug\DinamikHesapMakinesi.csproj.GenerateResource.cache
+C:\Users\raw_3\source\repos\DinamikHesapMakinesi\DinamikHesapMakinesi\obj\Debug\DinamikHesapMakinesi.csproj.CoreCompileInputs.cache
+C:\Users\raw_3\source\repos\DinamikHesapMakinesi\DinamikHesapMakinesi\obj\Debug\DinamikHesapMakinesi.exe
+C:\Users\raw_3\source\repos\DinamikHesapMakinesi\DinamikHesapMakinesi\obj\Debug\DinamikHesapMakinesi.pdb
+C:\Users\raw_3\source\repos\DinamikHesapMakinesi\DinamikHesapMakinesi\obj\Debug\DinamikHesapMakinesi.FormHesapMakinesi.resources
