@@ -1,0 +1,10 @@
+C:\Users\raw_3\source\repos\DinamikSayiTahminOyunu\DinamikSayiTahminOyunu\obj\Debug\DinamikSayiTahminOyunu.csprojAssemblyReference.cache
+C:\Users\raw_3\source\repos\DinamikSayiTahminOyunu\DinamikSayiTahminOyunu\obj\Debug\DinamikSayiTahminOyunu.FormSayiTahminOyunu.resources
+C:\Users\raw_3\source\repos\DinamikSayiTahminOyunu\DinamikSayiTahminOyunu\obj\Debug\DinamikSayiTahminOyunu.Properties.Resources.resources
+C:\Users\raw_3\source\repos\DinamikSayiTahminOyunu\DinamikSayiTahminOyunu\obj\Debug\DinamikSayiTahminOyunu.csproj.GenerateResource.cache
+C:\Users\raw_3\source\repos\DinamikSayiTahminOyunu\DinamikSayiTahminOyunu\obj\Debug\DinamikSayiTahminOyunu.csproj.CoreCompileInputs.cache
+C:\Users\raw_3\source\repos\DinamikSayiTahminOyunu\DinamikSayiTahminOyunu\bin\Debug\DinamikSayiTahminOyunu.exe.config
+C:\Users\raw_3\source\repos\DinamikSayiTahminOyunu\DinamikSayiTahminOyunu\bin\Debug\DinamikSayiTahminOyunu.exe
+C:\Users\raw_3\source\repos\DinamikSayiTahminOyunu\DinamikSayiTahminOyunu\bin\Debug\DinamikSayiTahminOyunu.pdb
+C:\Users\raw_3\source\repos\DinamikSayiTahminOyunu\DinamikSayiTahminOyunu\obj\Debug\DinamikSayiTahminOyunu.exe
+C:\Users\raw_3\source\repos\DinamikSayiTahminOyunu\DinamikSayiTahminOyunu\obj\Debug\DinamikSayiTahminOyunu.pdb
